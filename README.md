@@ -1,2 +1,2 @@
-# go-auth
-Study about how to implement auth in GoLang
+# 
+Study about how to implement a complete API in  golang
