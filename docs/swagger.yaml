@@ -10,7 +10,7 @@ definitions:
     type: object
 info:
   contact: {}
-  title: Swagger Dark Mode
+  title: API FitTracker
   version: "1.0"
 paths:
   /user:

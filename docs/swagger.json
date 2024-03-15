@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "title": "Swagger Dark Mode",
+        "title": "API FitTracker",
         "contact": {},
         "version": "1.0"
     },

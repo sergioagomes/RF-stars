@@ -11,6 +11,7 @@ import (
 func main() {
 	r := chi.NewRouter()
 	routes.InitRoutes(r)
+	routes.InitDocsRoutes(r)
 
 	fmt.Println("Server running on port 8080")
 	http.ListenAndServe(":8080", r)
